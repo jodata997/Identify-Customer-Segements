@@ -8,7 +8,7 @@ This project requires Python 3.x and the following Python libraries installed:
 - matplotlib
 - scikit-learn
 
-You will also need to have software installed to run and execute an iPython Notebook
+You will also need to have software installed to run and execute an iPython Notebook. 
 
 # Code
 The code is provided in the Identify_Customer_Segments.ipynb Jupyter-notebook file.
